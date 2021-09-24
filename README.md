@@ -1,17 +1,34 @@
-# welcome
-The main purpose of SOU is to be a true longterm cryptocurrency.
+Metaverseers is an online nft social network metaverse powered by the Ethereum blockchain. 
+Play games, meet and chat in real places with other people around the world.
 
+Metaverse Streets integrates with Google Street View to bring you a complete virtual environment of any location in the world. 
+Simply select your location and pin it, your virtual avatar will be activated at the location and your friends will be notified,
+allowing them to join you for a virtual chat experience at any location that you desire!
 
-Introducing... SoupCoin (SOU)
-SoupCoin is the latest and best ERC-20 token created on the popular Ethereum network.
+Metaverse Streets is the new revolution in social interaction, with Metaverse Streets it’s possible to travel the world with your friends,
+right from the comfort of your virtual safe space, take the conversation to the street with Metaverse Streets!
 
-SoupCoin (SOU) Vision
-The main purpose of SOU is to be a true longterm cryptocurrency. We all have one thing in common. 
-And it is the Bitcoin and the technology behind it called Blockchain. Bitcoin already went mainstream 
-and as a currency it is still growing. 
+Metaverse Streets allows to use real world locations while chatting, the locations are provided by Google Street View.
+Also the users can use their own faces on the avatars. This basically means you are chatting in a real place with your real face on your avatar.<br>
+The place can be familiar for all the chatters in the location making the process more friendly and intimate.
 
-The problem is: The greater the BTC is reaching the more difficult it is to enforce change.
-SoupCoin (SOU) was created as a solution for the future. We are all crypto believers and our
-mission is to keep crypto alive even in the future. Get Ready for Soup (SOU).
+Website:
+https://www.metaverseers.com
 
-Visit our website:  www.soupcoin.net
+Medium:
+https://metaverseers.medium.com
+@metaverseers
+
+Twitter:
+https://twitter.com/metaverseers
+@metaverseers
+
+OpenSea:
+https://opensea.io/Metaverseers
+https://opensea.io/collection/metaverseers
+
+Discord:
+https://discord.gg/gCc3avzUeB
+
+Linkedin:
+www.linkedin.com/in/metaverseers
